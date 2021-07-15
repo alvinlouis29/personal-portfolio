@@ -183,6 +183,16 @@ h1 {
   padding: 10px;
 }
 
+.content li a {
+    background-color: #ebf0ee;
+    border-radius: 2px;
+    padding: 12px 8px;
+    margin: 0 4px;
+    color: #172b4d;
+    font-size: 12px;
+    line-height: 16px;
+}
+  
 .open {
   display: flex;
   justify-content: center;
