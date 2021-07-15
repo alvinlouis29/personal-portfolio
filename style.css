@@ -176,5 +176,23 @@ a {
     background-color: rgb(32, 14, 14);
     margin: 1px 0;
   }
+  
+  /* ------- hero - section  ------ */
+
+  .hero {
+    padding: 50px 10px;
+    background-position: center;
+  }
+
+  .primary h2 {
+    font-size: 35px;
+  }
+
+  .support {
+    padding: 20px;
+  }
+
+  .social ul {
+    padding: 0;
+  }
 }
- 
