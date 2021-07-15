@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio: setup and mobile version skeleton
+# Portfolio: Personal Portfolio Website
 
 > In this project i am building a personal portfolio website, by parsing the figma design to create the user interface for the website.
 
