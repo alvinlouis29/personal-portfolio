@@ -128,14 +128,13 @@ a {
   font-size: 20px;
 }
 
-
 /* ---- My Recents Works ------ */
 
 .recent_works {
    padding: 60px 70px;
 }
-  
-  h1 {
+
+h1 {
    text-align: center;
    font-size: 35px;
    color: #172b4d;
@@ -193,7 +192,7 @@ a {
    font-size: 12px;
    line-height: 16px;
 }
-   
+
 .open {
    display: flex;
    justify-content: center;
