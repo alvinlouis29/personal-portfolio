@@ -208,10 +208,10 @@ h1 {
   font-size: 17px;
 }
 
-/* ------- About ------ */
+/* ------- About Myself ------ */
 
 .about {
-  background-image: url(./image/about.png);
+  background-image: url(./images/about.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -226,7 +226,8 @@ h1 {
   text-align: center;
   padding: 40px 80px;
   font-size: 20px;
-  color: #172b4d;}
+  color: #172b4d;
+}
 
 .resume {
   justify-content: center;
@@ -251,6 +252,7 @@ h1 {
   font-size: 12px;
   line-height: 16px;
 }
+
 .social li a {
   padding: 0 10px;
   color: #172b4d;
