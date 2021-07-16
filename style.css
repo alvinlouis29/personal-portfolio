@@ -266,21 +266,21 @@ h1 {
 }
 
 .language {
-  background-image: url(./images/icon_lang.png);
+  background-image: url(./images/lang.png);
   background-size: 120px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .frame-works {
-  background-image: url(./images/icon-frameworks.png);
+  background-image: url(./images/frameworks.png);
   background-size: 120px;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .skills {
-  background-image: url(./images/icon_skills.png);
+  background-image: url(./images/skills.png);
   background-size: 120px;
   background-repeat: no-repeat;
   background-position: center;
