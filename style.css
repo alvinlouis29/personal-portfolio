@@ -331,7 +331,7 @@ h1 {
     flex: 1;
     padding: 0;
     margin: 0;
- }
+  }
 
   .menu-logo a {
     width: fit-content;
@@ -376,8 +376,8 @@ h1 {
     margin: 0;
     font-size: 35px;
     line-height: 45px;
- }
-
+  }
+  
   .support {
     padding: 20px;
   }
