@@ -261,10 +261,28 @@ h1 {
 .featured {
   display: grid;
   justify-content: center;
+  padding: 180px 80px 0 80px;
 }
 
-.featured img {
-  padding-top: 60px;
+.language {
+  background-image: url(./images/icon_lang.png);
+  background-size: 120px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.frame-works {
+  background-image: url(./images/icon-frameworks.png);
+  background-size: 120px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.skills {
+  background-image: url(./images/icon_skills.png);
+  background-size: 120px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .weight h1 {
