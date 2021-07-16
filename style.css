@@ -369,54 +369,54 @@ h1 {
   .social ul {
     padding: 0;
   }
-  
+
   /* ----- Recent Section ----- */
 
   .recent_works {
-     padding: 6px;
+    padding: 6px;
   }
 
   .recent_title h1 {
-     padding: 20px 40px;
-     justify-content: center;
-     font-size: 40px;
+    padding: 20px 40px;
+    justify-content: center;
+    font-size: 40px;
   }
 
   .cards {
-     align-content: center;
-     padding: 1px;
-     grid-template-columns: 1fr;
-     grid-template-rows: repeat(6, 1fr);
+    align-content: center;
+    padding: 1px;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(6, 1fr);
   }
 
   .card {
-     margin-top: 50px;
-     width: 310px;
+    margin-top: 50px;
+    width: 310px;
   }
 
   .content {
-     padding: 20px 0;
+    padding: 20px 0;
   }
 
   /* --------- About ------- */
 
   .about {
-     padding: 20px 15px;
-     background-image: url(./images/about-mobile.png);
-     background-position: top;
-     background-size: contain;
+    padding: 20px 15px;
+    background-image: url(./images/about-mobile.png);
+    background-position: top;
+    background-size: contain;
   }
 
   .about p {
-     padding: 30px 10px;
+    padding: 30px 10px;
   }
 
   .skill {
-     display: grid;
-     grid-template-columns: 300px;
-     grid-template-rows: repeat(3, 352px);
-     justify-content: center;
-     grid-row-gap: 20px;
-     padding: 50px;
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: repeat(3, 352px);
+    justify-content: center;
+    grid-row-gap: 20px;
+    padding: 50px;
   }
 }
